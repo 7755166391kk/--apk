@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">كوديز</string>
-    <string name="title_activity_main">كوديز</string>
-    <string name="package_name">com.app.Codes</string>
-    <string name="custom_url_scheme">com.app.Codes</string>
+    <string name="app_name">مُحوِّل</string>
+    <string name="title_activity_main">مُحوِّل</string>
+    <string name="package_name">com.hamzalnajjar.adapter </string>
+    <string name="custom_url_scheme">com.hamzalnajjar.adapter </string>
 </resources>
