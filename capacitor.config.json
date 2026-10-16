@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzalnajjar.adapter ",
-  "appName": "مُحوِّل",
+  "appId": "com.hamzalnajjar.codes",
+  "appName": "كوديز",
   "webDir": "www",
   "server": {
-    "url": "https://appifyio.lovable.app/",
+    "url": "https://codezio.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
