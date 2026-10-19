@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzalnajjar.adapter ",
-  "appName": "مُحوِّل",
+  "appId": "com.hamzanajjar.mhwlalnsilaswtwaqay",
+  "appName": "محوّل النص إلى صوت واقعي",
   "webDir": "www",
   "server": {
-    "url": "https://appifyio.lovable.app/",
+    "url": "https://talk-like-you-arabic.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
@@ -12,7 +12,7 @@
   },
   "android": {
     "allowMixedContent": false,
-    "backgroundColor": "#000000",
+    "backgroundColor": "#0f172a",
     "webContentsDebuggingEnabled": false,
     "captureInput": true,
     "useLegacyBridge": false
@@ -25,7 +25,7 @@
       "enabled": true
     },
     "SplashScreen": {
-      "backgroundColor": "#000000",
+      "backgroundColor": "#0f172a",
       "launchAutoHide": true,
       "launchShowDuration": 1500,
       "androidScaleType": "FIT_CENTER",
