@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzanajjar.mhwlmhwl",
-  "appName": "مُحوِّل — مُحوِّل",
+  "appId": "com.hamzanajjar.ttbyq",
+  "appName": "تطبيق",
   "webDir": "www",
   "server": {
-    "url": "https://appifyio.lovable.app/",
+    "url": "https://apps.apple.com/us/app/sayit-voice-to-notes/id6824281515",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
