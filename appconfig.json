@@ -1,7 +1,7 @@
 {
-  "appName": "تطبيق",
+  "appName": "مُحوِّل — مُحوِّل",
   "appIcon": "",
-  "packageName": "com.hamzanajjar.ttbyq",
+  "packageName": "com.hamzanajjar.mhwlmhwl",
   "versionCode": 1,
   "versionName": "1.0",
   "keystoreMode": "auto",
@@ -62,7 +62,7 @@
   "targetDesktop": false,
   "targetAllDevices": true,
   "authMethods": [],
-  "websiteUrl": "https://apps.apple.com/us/app/sayit-voice-to-notes/id6824281515",
-  "generatedAt": "2026-10-23T10:36:51.153Z",
+  "websiteUrl": "https://appifyio.lovable.app/",
+  "generatedAt": "2026-11-03T23:59:56.544Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }

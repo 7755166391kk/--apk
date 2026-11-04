@@ -1,9 +1,9 @@
-# تطبيق
+# مُحوِّل — مُحوِّل
 
 مشروع Web-to-App من **محول المواقع الذكي — المطور حمزة نجار**.
 
-- الموقع: https://apps.apple.com/us/app/sayit-voice-to-notes/id6824281515
-- اسم الحزمة: `com.hamzanajjar.ttbyq`
+- الموقع: https://appifyio.lovable.app/
+- اسم الحزمة: `com.hamzanajjar.mhwlmhwl`
 - الأذونات المفعّلة: INTERNET، ACCESS_NETWORK_STATE، ACCESS_WIFI_STATE، CAMERA، READ_EXTERNAL_STORAGE، WRITE_EXTERNAL_STORAGE، READ_MEDIA_IMAGES، READ_MEDIA_VIDEO، VIBRATE، POST_NOTIFICATIONS، WAKE_LOCK، GET_ACCOUNTS
 
 ## 🚀 الطريقة (١): APK تلقائياً عبر GitHub Actions
