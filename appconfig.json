@@ -1,7 +1,7 @@
 {
-  "appName": "مُحوِّل — مُحوِّل",
+  "appName": "بنّاء — ابنِ مواقعك بالذكاء ال",
   "appIcon": "",
-  "packageName": "com.hamzanajjar.mhwlmhwl",
+  "packageName": "com.hamzanajjar.bnaaabnmwaqakbalthkaaal",
   "versionCode": 1,
   "versionName": "1.0",
   "keystoreMode": "auto",
@@ -62,7 +62,7 @@
   "targetDesktop": false,
   "targetAllDevices": true,
   "authMethods": [],
-  "websiteUrl": "https://appifyio.lovable.app/",
-  "generatedAt": "2026-11-03T23:59:56.544Z",
+  "websiteUrl": "https://codezio.lovable.app/",
+  "generatedAt": "2026-11-05T01:23:24.086Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }

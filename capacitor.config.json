@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzanajjar.mhwlmhwl",
-  "appName": "مُحوِّل — مُحوِّل",
+  "appId": "com.hamzanajjar.bnaaabnmwaqakbalthkaaal",
+  "appName": "بنّاء — ابنِ مواقعك بالذكاء ال",
   "webDir": "www",
   "server": {
-    "url": "https://appifyio.lovable.app/",
+    "url": "https://codezio.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
