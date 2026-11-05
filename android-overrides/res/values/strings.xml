@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">المُحوّل الذكي</string>
-    <string name="title_activity_main">المُحوّل الذكي</string>
-    <string name="package_name">com.hamzanajjar.almhwlalthky</string>
-    <string name="custom_url_scheme">com.hamzanajjar.almhwlalthky</string>
+    <string name="app_name">منصة معاينة المواقع</string>
+    <string name="title_activity_main">منصة معاينة المواقع</string>
+    <string name="package_name">com.hamzanajjar.mnshmaaynhalmwaqa</string>
+    <string name="custom_url_scheme">com.hamzanajjar.mnshmaaynhalmwaqa</string>
 </resources>

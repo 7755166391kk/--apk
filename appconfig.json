@@ -1,7 +1,7 @@
 {
-  "appName": "المُحوّل الذكي",
+  "appName": "منصة معاينة المواقع",
   "appIcon": "",
-  "packageName": "com.hamzanajjar.almhwlalthky",
+  "packageName": "com.hamzanajjar.mnshmaaynhalmwaqa",
   "versionCode": 1,
   "versionName": "1.0",
   "keystoreMode": "auto",
@@ -62,7 +62,7 @@
   "targetDesktop": false,
   "targetAllDevices": true,
   "authMethods": [],
-  "websiteUrl": "https://image-to-everything.lovable.app/",
-  "generatedAt": "2026-11-05T01:31:07.770Z",
+  "websiteUrl": "https://trial-run-app.lovable.app/",
+  "generatedAt": "2026-11-05T02:46:25.582Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }

@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzanajjar.almhwlalthky",
-  "appName": "المُحوّل الذكي",
+  "appId": "com.hamzanajjar.mnshmaaynhalmwaqa",
+  "appName": "منصة معاينة المواقع",
   "webDir": "www",
   "server": {
-    "url": "https://image-to-everything.lovable.app/",
+    "url": "https://trial-run-app.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
