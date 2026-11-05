@@ -1,7 +1,7 @@
 {
-  "appName": "بنّاء — ابنِ مواقعك بالذكاء ال",
+  "appName": "المُحوّل الذكي",
   "appIcon": "",
-  "packageName": "com.hamzanajjar.bnaaabnmwaqakbalthkaaal",
+  "packageName": "com.hamzanajjar.almhwlalthky",
   "versionCode": 1,
   "versionName": "1.0",
   "keystoreMode": "auto",
@@ -62,7 +62,7 @@
   "targetDesktop": false,
   "targetAllDevices": true,
   "authMethods": [],
-  "websiteUrl": "https://codezio.lovable.app/",
-  "generatedAt": "2026-11-05T01:23:24.086Z",
+  "websiteUrl": "https://image-to-everything.lovable.app/",
+  "generatedAt": "2026-11-05T01:31:07.770Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }

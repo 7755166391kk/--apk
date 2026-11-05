@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">بنّاء — ابنِ مواقعك بالذكاء ال</string>
-    <string name="title_activity_main">بنّاء — ابنِ مواقعك بالذكاء ال</string>
-    <string name="package_name">com.hamzanajjar.bnaaabnmwaqakbalthkaaal</string>
-    <string name="custom_url_scheme">com.hamzanajjar.bnaaabnmwaqakbalthkaaal</string>
+    <string name="app_name">المُحوّل الذكي</string>
+    <string name="title_activity_main">المُحوّل الذكي</string>
+    <string name="package_name">com.hamzanajjar.almhwlalthky</string>
+    <string name="custom_url_scheme">com.hamzanajjar.almhwlalthky</string>
 </resources>

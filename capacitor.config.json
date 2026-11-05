@@ -1,9 +1,9 @@
 {
-  "appId": "com.hamzanajjar.bnaaabnmwaqakbalthkaaal",
-  "appName": "بنّاء — ابنِ مواقعك بالذكاء ال",
+  "appId": "com.hamzanajjar.almhwlalthky",
+  "appName": "المُحوّل الذكي",
   "webDir": "www",
   "server": {
-    "url": "https://codezio.lovable.app/",
+    "url": "https://image-to-everything.lovable.app/",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
